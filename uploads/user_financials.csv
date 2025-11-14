@@ -1,0 +1,51 @@
+userId,occupation,monthlyIncome,creditScore,spendingCategory
+1,Doctor,20679.28,579,Moderate
+2,Nurse,9691.21,622,Moderate
+3,Pharmacist,17214.83,742,Low
+4,Software Engineer,19051.19,850,Low
+5,Electrician,9051.73,808,Moderate
+6,Teacher,9885.01,712,Moderate
+7,Architect,21106.15,797,Low
+8,Nurse,13434.79,559,Moderate
+9,Architect,29452.12,601,Low
+10,Civil Engineer,23320.61,614,Moderate
+11,Data Analyst,18694.44,592,High
+12,Architect,18051.85,622,Moderate
+13,Architect,29779.63,675,High
+14,Nurse,15729.46,834,Moderate
+15,Software Engineer,15020.02,787,High
+16,Sales Representative,12224.47,635,Low
+17,Software Engineer,33670.14,796,Moderate
+18,Data Analyst,16512.45,744,Moderate
+19,Customer Support,11425.45,849,High
+20,Sales Representative,7363.88,823,High
+21,Teacher,10104.47,752,High
+22,Teacher,13813.49,834,Moderate
+23,Pharmacist,18615.51,808,Moderate
+24,Pharmacist,21867.31,725,High
+25,Sales Representative,14837.12,781,Moderate
+26,Accountant,16622.77,714,Moderate
+27,Accountant,14597.99,718,Low
+28,Pharmacist,21993.99,551,High
+29,Electrician,6025.68,554,High
+30,Doctor,30329.08,800,Moderate
+31,Architect,16217.23,589,High
+32,Software Engineer,32851.44,777,High
+33,Teacher,10470.96,742,High
+34,Bank Officer,17027.76,554,Low
+35,Electrician,8222.88,648,Moderate
+36,Software Engineer,19430.42,560,Moderate
+37,Graphic Designer,16292.59,733,Low
+38,Teacher,13713.97,705,High
+39,Accountant,12342.58,802,Moderate
+40,Software Engineer,20615.13,657,Low
+41,Accountant,19842.64,752,Low
+42,Customer Support,8941.43,806,Moderate
+43,Doctor,33794.63,839,High
+44,Graphic Designer,13426.75,639,Low
+45,Data Analyst,14795.45,583,Low
+46,Sales Representative,14468.51,666,High
+47,Marketing Specialist,19387.03,648,High
+48,Software Engineer,34839.03,822,High
+49,Sales Representative,12445.44,782,Low
+50,Nurse,13486.76,576,Moderate
