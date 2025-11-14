@@ -35,4 +35,7 @@ python-dotenv>=1.0.0
 tiktoken>=0.5.1
 
 # Optional: For Ollama integration
+
 # ollama>=0.1.0
+
+groq
